@@ -1,0 +1,13 @@
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\bin\Debug\netcoreapp3.1\PrimeNumberCalculator.exe
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\bin\Debug\netcoreapp3.1\PrimeNumberCalculator.deps.json
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\bin\Debug\netcoreapp3.1\PrimeNumberCalculator.runtimeconfig.json
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\bin\Debug\netcoreapp3.1\PrimeNumberCalculator.runtimeconfig.dev.json
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\bin\Debug\netcoreapp3.1\PrimeNumberCalculator.dll
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\bin\Debug\netcoreapp3.1\PrimeNumberCalculator.pdb
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.csprojAssemblyReference.cache
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.AssemblyInfoInputs.cache
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.AssemblyInfo.cs
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.dll
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.pdb
+C:\Users\tacol\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\netcoreapp3.1\PrimeNumberCalculator.genruntimeconfig.cache
